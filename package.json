@@ -1,0 +1,28 @@
+{
+  "name": "fastify-book-management-project",
+  "version": "1.0.0",
+  "description": "fastify framework",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maxhothead776/fastify-book-project.git"
+  },
+  "author": "mayank attri",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maxhothead776/fastify-book-project/issues"
+  },
+  "homepage": "https://github.com/maxhothead776/fastify-book-project#readme",
+  "dependencies": {
+    "aws-sdk": "^2.1041.0",
+    "body-parser": "^1.19.0",
+    "express": "^4.17.1",
+    "fastify": "^3.24.1",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.0.14",
+    "multer": "^1.4.3"
+  }
+}
